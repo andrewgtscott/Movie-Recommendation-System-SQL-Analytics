@@ -105,10 +105,10 @@ Average vote: 5.6/10
 Runtime: 105 minutes
 
 get_matching_movies('DSA8002 the Movie')
-# Warning: Movie not found in database
+Warning!
+No movie found with the title: "DSA8002 the Movie". Please try again!
 
-get_matching_movies('')
-# Returns the five most popular movies in the library
+
 ```
 
 ---
